@@ -18,8 +18,6 @@ b) Do people use resistance strategies more or less depending on certain domains
 
 Using a manually structured dataset of online news comments, multiple supervised machine learning classifiers were trained and tested. In a stepwise method, the comments were first classified according to the presence or absence of a resistance attempt. Second-level classification was based on the extent of the three resistance strategies: "contesting," "empowerment," and "negative affect." 
 
-Results show that the best performing model for the first and second-level classifications of contesting, empowering, and negative affect strategies achieved F1 scores of .78, .75, .78, .79, respectively. Moreover, people’s use of resistance strategies was found to depend on domains (politics & economy vs. lifestyle & health) and types of news (regular vs. opinion).
-
 ### Data Collection
 
 #### Web Scraping News Comments
