@@ -24,7 +24,7 @@ Using a manually structured dataset of online news comments, multiple supervised
 
 For the time-span of roughly three months from January 1st to March 10th of 2018, all news articles and comments for each news section (Politics, Economy, Lifestyle, Health, and Opinion(s)) were scraped from the websites of The Guardian (www.theguardian.com). The links of news articles were archived and used as landing pages. Some articles did not allow comments; these were skipped during the scraping procedure. Next, only the articles that had a minimum of comments showing at least one of the resistance strategies were selected. In total, 303 news articles from The Guardian were scraped, 118 of them were from Lifestyle & Health, 135 of them were from Politics & Economy, and 50 of them were from the Opinion section.
 
-Beautiful Soup library was used to build a [scraper function](https://github.com/hslee91/portfolio/Notebooks).
+Beautiful Soup library was used to build a [scraper function](theguardian.py).
 
 #### Manual Annotation
 
