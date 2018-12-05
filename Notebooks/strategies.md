@@ -1,4 +1,7 @@
 # Resistance Strategies
+
+The present study explores the three resistance strategies: contesting, empowerment, and negative affect. There are sub-strategies within contesting and empowerment strategies.
+
 ## Contesting
 ### 1. Contesting the Content
 Directly counter-arguing against the claims made in messages by giving counterarguments. 
