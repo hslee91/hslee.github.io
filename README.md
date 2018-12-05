@@ -18,6 +18,8 @@ b) Do people use resistance strategies more or less depending on certain domains
 
 Using a manually structured dataset of online news comments, multiple supervised machine learning classifiers were trained and tested. In a stepwise method, the comments were first classified according to the presence or absence of a resistance attempt. Second-level classification was based on the extent of the three resistance strategies: "contesting," "empowerment," and "negative affect." 
 
+More information about the three resistance strategies are found [here](Notebooks/strategies.md).
+
 ### Data Collection
 
 #### Web Scraping News Comments
