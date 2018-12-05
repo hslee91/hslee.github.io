@@ -2,6 +2,10 @@
 
 The present study explores the three resistance strategies: contesting, empowerment, and negative affect. There are sub-strategies within contesting and empowerment strategies.
 
+The definitions were brought from an academic research:
+
+> Marieke L Fransen, Edith G Smit, and Peeter WJ Verlegh. 2015. Strategies and motives for resistance to persuasion: an integrative framework. Frontiers in psychology 6 (2015), 1201.
+
 ## Contesting
 ### 1. Contesting the Content
 Directly counter-arguing against the claims made in messages by giving counterarguments. 
