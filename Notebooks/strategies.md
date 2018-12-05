@@ -9,29 +9,29 @@ The definitions were brought from an academic research:
 ## Contesting
 #### 1. Contesting the Content
 Directly counter-arguing against the claims made in messages by giving counterarguments. 
-*“It is impossible to choose what is more sickening in this editorial: its distortion of what Rev. King stood for and fought for, which was certainly to change, not conserve, US institutional and legal racism.”*
+EX. *“It is impossible to choose what is more sickening in this editorial: its distortion of what Rev. King stood for and fought for, which was certainly to change, not conserve, US institutional and legal racism.”*
 
 #### 2. Contesting the Source
 Countering messages by questioning the expertise and validity of the source.
-*“The research is discredited thus I can’t believe it.”*
+EX. *“The research is discredited thus I can’t believe it.”*
 
 #### 3. Contesting the Strategies Used
 Resisting by focusing on persuasive strategies used in messages, detecting persuasion tactics.
-*“The author is using his personal story to persuade our attitude change.”*
+EX. *“The author is using his personal story to persuade our attitude change.”*
 
 ## Empowerment
 #### 1. Attitude Bolstering
 Generating thoughts that are consistent with the exiting opposite attitudes (without refuting the arguments in messages).
-*“Yes, but there is another important factor that should be taken into account, which is. . .”*
+EX. *“Yes, but there is another important factor that should be taken into account, which is. . .”*
 
 #### 2. Social Validation
 Counter-arguing messages by seeking validation from significant others who also disagree.
-*“There are still many other people who don’t believe in this.”*
+EX. *“There are still many other people who don’t believe in this.”*
 
 #### 3. Self Assertions
 Asserting the self by reminding that nothing can change their attitudes or behavior because we are confident about ourselves.
-*“I voted for Remain and my opinion hasn’t changed, and it will not change.”*
+EX. *“I voted for Remain and my opinion hasn’t changed, and it will not change.”*
 
 ## Negative Affect
 Responding to the persuasive attempt by getting angry, irritated, sarcastic, or upset.
-*“1000 unlikes, so much views. Congratulations Sir.”*
+EX. *“1000 unlikes, so much views. Congratulations Sir.”*
