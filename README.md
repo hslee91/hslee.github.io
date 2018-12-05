@@ -16,11 +16,17 @@ another substantial research question is:
 
 b) Do people use resistance strategies more or less depending on certain domains and types of online news? 
 
-Using a manually structured dataset of online news comments, multiple supervised machine learning classifiers were trained and tested. In a stepwise method, the comments were first classified according to the presence or absence of a resistance attempt. Second-level classification was based on the extent of the three resistance strategies: "contesting," "empowerment," and "negative affect." Results show that the best performing model for the first and second-level classifications of contesting, empowering, and negative affect strategies achieved F1 scores of .78, .75, .78, .79, respectively. Moreover, people’s use of resistance strategies was found to depend on domains (politics & economy vs. lifestyle & health) and types of news (regular vs. opinion).
+Using a manually structured dataset of online news comments, multiple supervised machine learning classifiers were trained and tested. In a stepwise method, the comments were first classified according to the presence or absence of a resistance attempt. Second-level classification was based on the extent of the three resistance strategies: "contesting," "empowerment," and "negative affect." 
+
+Results show that the best performing model for the first and second-level classifications of contesting, empowering, and negative affect strategies achieved F1 scores of .78, .75, .78, .79, respectively. Moreover, people’s use of resistance strategies was found to depend on domains (politics & economy vs. lifestyle & health) and types of news (regular vs. opinion).
 
 ### Data Collection
 
-#### Web Scraping
+#### Web Scraping News Comments
+
+For the time-span of roughly three months from January 1st to March 10th of 2018, all news articles and comments for each news section (Politics, Economy, Lifestyle, Health, and Opinion(s)) were scraped from the websites of The Guardian (www.theguardian.com). The links of news articles were archived and used as landing pages. Some articles did not allow comments; these were skipped during the scraping procedure. Next, only the articles that had a minimum of comments showing at least one of the resistance strategies were selected. In total, 303 news articles from The Guardian were scraped, 118 of them were from Lifestyle & Health, 135 of them were from Politics & Economy, and 50 of them were from the Opinion section.
+
+Beautiful Soup library was used to build a scraper function.
 
 #### Manual Annotation
 
