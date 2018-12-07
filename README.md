@@ -1,7 +1,7 @@
 # Data science portfolio by Hye Seung Lee
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. Please browse through each section to see each project.
 
-## UvA Data Science Master's thesis project
+## Using supervised machine learning to measure resistance towards persuasion
 
 ### Introduction
 
@@ -30,7 +30,13 @@ Beautiful Soup library was used to build a [scraper function](Notebooks/theguard
 
 #### Manual Annotation
 
+The articles were read first to grasp the main arguments. Only the top-level comments about the article were selected, without regarding the comments to other comments. Up to two sentences were selected from the each comment that showed a resistance attempt using any of the resistance strategies. Resistance attempts were coded according to a binary classification. Comments that were coded as "1" were further categorized as binary classifications for each resistance strategy. 
+
+> For example, this comment, "What an insulting article. Really, WP? No, Dr. Martin Luther King, Jr. was not a Conservative," shows both irritation and objection towards the newspaper, which can be classified simultaneously as the negative affect and contesting strategies.
+
 #### Inter-coder Reliability Test
+
+To ensure adequate quality of coded data, a second coder was included.For each stepwise classification process, 200 randomly selected examples of the collected news comments were coded. The inter-coder reliability test results for the first-level and second-level classifications are found in [here](Notebooks/Inter-coder reliability.ipynb).
 
 #### Internet Argument Corpus (IAC)
 
